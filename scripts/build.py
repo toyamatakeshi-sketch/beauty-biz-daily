@@ -30,6 +30,14 @@ SHOW_AUTHOR = SHOW_TITLE
 async def synthesize(text: str, out_path: Path) -> None:
     import edge_tts
 
+    extra_ca = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
+    if extra_ca and os.path.exists(extra_ca):
+        import ssl
+
+        ctx = ssl.create_default_context(cafile=extra_ca)
+        edge_tts.communicate._SSL_CTX = ctx
+        edge_tts.voices._SSL_CTX = ctx
+
     last_err = None
     for attempt in range(5):
         try:
