@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:18:33 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,22 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年8月17日</title>
+      <description><![CDATA[美容室・理美容(家計調査) — カット代支出、家計調査で前期比14.9パーセント増 単価上昇が押し上げ / アイビューティー(市場調査) — 眉毛施術は男性がけん引、値上げ後も9割超が継続利用意向 / エステ(消費者トラブル) — エステ相談件数が49.8パーセント増の1万4691件、ランクは16位から5位に急上昇 / 業界全般・経営(市場調査) — 理美容サロン市場、2025年度は1.0パーセント減の2兆1030億円 矢野経済研は2026年度も横ばい予測 / 業界全般・経営(消費者動向) — 美容への関心、女性は若年層ほど高く 男性も10〜30代で3割強
+
+出典:
+理美容ニュース(カット代の支出14.9％増、料金値上げが影響　【家計調査2026年4〜6月期】): https://ribiyo-news.jp/?p=51235
+ホットペッパービューティーアカデミー(付加価値メニューに関する調査【眉毛施術編】): https://hba.beauty.hotpepper.jp/search/trade/salon/s_mens/81422/
+理美容ニュース(エステティックサービスの相談件数が約5割増　2025年度は5位に浮上【国民生活センター】): https://ribiyo-news.jp/?p=51231
+理美容ニュース(矢野経済研究所、2025年度の理美容サロン市場は1％減　2026年度も横ばい予測): https://ribiyo-news.jp/?p=51221
+理美容ニュース(美容への関心、女性は若年層ほど高く　男性も10～30代で3割強): https://ribiyo-news.jp/?p=51240]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-17.mp3" length="1923264" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-17.mp3</guid>
+      <pubDate>Mon, 17 Aug 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>320</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年8月16日</title>
       <description><![CDATA[業界全般・経営(サロン予約システム企業決算) — サインド1Q、予約基盤「ビューティメリット」堅調で増収増益 / ネイル(移転・差別化戦略) — 港区の人気ネイルサロン「クロリ」、福生へ移転オープン / 業界全般・経営(財務戦略) — ネイル大手コンヴァノ、保有暗号資産を全売却 / 業界全般・経営(人材戦略・出版) — 理美容室9業態展開のリビアス代表、「多店舗展開」指南書を出版
