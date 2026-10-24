@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:06:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:06:23 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年10月25日</title>
+      <description><![CDATA[業界全般・経営(集客・予約DX) — アピリッツ子会社が美容室向け経営プラットフォーム「CyCal」に1,000万円を出資 / 業界全般・経営(行政・表彰) — 令和8年度の生活衛生功労者を発表、理美容は合わせて30名が受賞 / ネイル(イベント) — 「東京ネイルエキスポ2026」は11月22日・23日、東京ビッグサイトで開催。出展は77社・団体 / 美容室・理美容(機器) — 三木電器産業が業務用ヘアアイロン2機種を10月27日に発売。火山岩プレートを採用 / ヘッドスパ(展示会・物販) — ヘッドスパサロン発の「Kuu」が、ビューティーワールド ジャパン 大阪に出展 / アイビューティー(眉) — 眉の整え方を学ぶ「まゆげ道場」が11月14日・15日にルクア大阪で開催
+
+出典:
+PR TIMES(アピリッツ)「アピリッツの子会社、株式会社クエイルが株式会社CyCalへ出資」: https://prtimes.jp/main/html/rd/p/000000379.000072985.html
+ビューティー・ビュートピア「厚労省、令和8年度生活衛生功労を発表 理美容は30名が受賞」: https://www.beautopia.jp/220497/
+ビューティー・ビュートピア「東京ネイルエキスポ2026 77社・団体を一挙公開!」: https://www.beautopia.jp/219540/
+PR TIMES(三木電器産業)「遠赤外線で優れた熱伝導性を誇る、LAVA(火山岩)プレートを採用した業務用ヘアアイロン2機種を発売」: https://prtimes.jp/main/html/rd/p/000000010.000083582.html
+PR TIMES(Kuu)「ヘッドスパ市場No.1サロン発「Kuu」が「ビューティーワールド ジャパン 大阪 2026」に出展」: https://prtimes.jp/main/html/rd/p/000000053.000063938.html
+PR TIMES(ルクア大阪)「アイブロウリストから“自分なりの型”を学ぶ「まゆげ道場」がルクア大阪で開催」: https://prtimes.jp/main/html/rd/p/000000263.000014414.html]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-25.mp3" length="1670688" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-25.mp3</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>278</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年10月24日</title>
       <description><![CDATA[業界全般・経営(行政・政策) — 「J-Beauty産業振興議員連盟」が設立、最高顧問に高市首相。美容産業の海外展開とエステのインバウンド強化を後押し / 美容室・理美容(働き方・人材) — ioeが梅田・茶屋町に新ブランド「mieu」。福利厚生300以上、失恋休暇や推し活休暇など / 美容室・理美容(メンズ・人材育成) — メンズ専門美容室「L-MARK」が渋谷店を拡張移転。アシスタント制度を廃止、新卒は約3カ月・400時間でデビュー / ネイル(技術・スクール) — 「爪質改善アドバイザー検定」が11月開講。ネイリスト向け、受講期間1カ月、締め切りは10月28日 / 美容室・理美容(新製品・白髪染め) — パイモアが業務用白髪染め「anchor」を発売。無香料・シリコーン不使用、全20色
@@ -1485,25 +1502,6 @@ Re.Ra.Ku(リラクグループ公式サイト): https://reraku.jp/
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-27.mp3</guid>
       <pubDate>Mon, 27 Jul 2026 06:00:00 +0900</pubDate>
       <itunes:duration>289</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年7月26日</title>
-      <description><![CDATA[業界全般・経営 — 美容センサス2026年上期、美容室市場は5.9パーセント減も男性のアイビューティーは46パーセント増 / 業界全般・経営 — 決済代行「全東信」破産、加盟サロンの未収売上金は回収困難に / 美容室・理美容 — 美容師登録、8年ぶり1万9000件台を回復 / 美容室・理美容 — ビューティガレージ、美容師向け商材プラットフォーム「HAIRGORA」を7月27日開設 / アイビューティー — アイラッシュガレージ、まつげエクステとラッシュリフトの使い分けテーマにセミナー開催へ
-
-出典:
-日本経済新聞: https://www.nikkei.com/article/DGXZQOUC258KJ0V20C26A6000000/
-ホットペッパービューティーアカデミー「美容センサス2026年上期」お知らせ: https://hba.beauty.hotpepper.jp/news-release/79498/
-Infoseekニュース(PR TIMES配信): https://news.infoseek.co.jp/article/prtimes_000003210_000011414/
-日本経済新聞: https://www.nikkei.com/article/DGXZQOUF065HT0W6A700C2000000/
-ビュートピア: https://www.beautopia.jp/213044/
-理美容ニュース: https://ribiyo-news.jp/?p=51096
-理美容ニュース: https://ribiyo-news.jp/
-アイラッシュガレージ セミナー情報: https://www.eyelashgarage.jp/seminar/c/2SE202]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-26.mp3" length="1552896" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-26.mp3</guid>
-      <pubDate>Sun, 26 Jul 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>258</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
