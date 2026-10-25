@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:05:24 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年10月26日</title>
+      <description><![CDATA[業界全般・経営(倒産動向) — 美容室の倒産、年度上半期は54件。人手不足倒産は5件で過去最多 / 業界全般・経営(物価・価格) — 9月の消費者物価、美容サービスは前年比1%前後の上昇にとどまる / 業界全般・経営(景況) — 理容業・美容業とも活動指数が100を下回る。8月の第三次産業活動指数 / 美容室・理美容(行政・衛生) — 群馬県が理美容所向けに「ポチっとスマート衛生報告」を導入 / エステ・脱毛(新製品) — NBSが約10年ぶりの新型業務用脱毛機「CLEAR/SP-GX」を11月発売 / 業界全般・経営(人材育成) — 盈科学園が2027年4月に「つくば美容専門学校」を開校へ
+
+出典:
+理美容ニュース・美容室倒産 年度上半期は54件: https://ribiyo-news.jp/?p=51897
+理美容ニュース・2026年9月CPI: https://ribiyo-news.jp/?p=51887
+理美容ニュース・第三次産業活動指数 2026年8月: https://ribiyo-news.jp/?p=51859
+理美容ニュース・群馬県「ポチっとスマート衛生報告」: https://ribiyo-news.jp/?p=51871
+理美容ニュース・NBS新型業務用脱毛機: https://ribiyo-news.jp/?p=51855
+理美容ニュース・つくば美容専門学校: https://ribiyo-news.jp/?p=51885]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-26.mp3" length="1574928" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-26.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>262</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年10月25日</title>
       <description><![CDATA[業界全般・経営(集客・予約DX) — アピリッツ子会社が美容室向け経営プラットフォーム「CyCal」に1,000万円を出資 / 業界全般・経営(行政・表彰) — 令和8年度の生活衛生功労者を発表、理美容は合わせて30名が受賞 / ネイル(イベント) — 「東京ネイルエキスポ2026」は11月22日・23日、東京ビッグサイトで開催。出展は77社・団体 / 美容室・理美容(機器) — 三木電器産業が業務用ヘアアイロン2機種を10月27日に発売。火山岩プレートを採用 / ヘッドスパ(展示会・物販) — ヘッドスパサロン発の「Kuu」が、ビューティーワールド ジャパン 大阪に出展 / アイビューティー(眉) — 眉の整え方を学ぶ「まゆげ道場」が11月14日・15日にルクア大阪で開催
@@ -1485,23 +1502,6 @@ PR TIMES(Fast Beauty「fufu」イオンモール銚子店オープン): https://
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-28.mp3</guid>
       <pubDate>Tue, 28 Jul 2026 06:00:00 +0900</pubDate>
       <itunes:duration>235</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年7月27日</title>
-      <description><![CDATA[業界全般・経営 — 美容サロン向け伴走型経営支援「SALON AXEL」、b-modelsが全国展開 / 業界全般・経営(法規制) — 2026年の労務関連法改正、小規模サロンへの影響に要注意 / 美容室・理美容 — 美容業の倒産、2025年は120件で過去20年最多を更新 / エステ — エステ・脱毛サロンの倒産、2026年も過去最多ペースで推移 / ヘッドスパ・リラクゼーション — リラクグループ、夏季の増額チケットキャンペーンを開始 / 業界全般・経営(人材) — 休眠美容師は56.4パーセント、有効求人倍率2.96倍の高止まり続く
-
-出典:
-PR TIMES(b-models「SALON AXEL」): https://prtimes.jp/main/html/rd/p/000000013.000185317.html
-ビューティーベンダー(2026年法改正・施行まとめ): https://beauty-vender.co.jp/2026-law-amendment-enforcement/
-TSRデータインサイト(美容業の倒産、過去20年で最多): https://www.tsr-net.co.jp/data/detail/1202342_1527.html
-理美容ニュース(エステサロン倒産、過去最多ペース): https://ribiyo-news.jp/?p=50622
-Re.Ra.Ku(リラクグループ公式サイト): https://reraku.jp/
-ホットペッパービューティーアカデミー(美容サロン就業実態調査2026): https://hba.beauty.hotpepper.jp/search/career/77929/]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-27.mp3" length="1738080" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-07-27.mp3</guid>
-      <pubDate>Mon, 27 Jul 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>289</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
