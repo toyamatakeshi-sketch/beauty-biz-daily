@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:06:41 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年10月31日</title>
+      <description><![CDATA[美容室・理美容(業界統計) — 美容所は28万1,687施設に増加、理容所は10万6,083施設まで減少 / 美容室・理美容(景況調査) — 日本公庫調査、美容業は客数DIがマイナス31.6と厳しい水準 / 美容室・理美容(上場企業・決算) — 田谷が中間決算、売上2.7%減で営業損失1億600万円 / 業界全般・経営(メーカー動向) — 日華化学3Qは増収増益、ただし化粧品事業は減収減益 / 業界全般・経営(政策) — 「J-Beauty産業振興議員連盟」の最高顧問に高市首相が就任 / 美容室・理美容(人材育成・イベント) — アシスタントが主役の「JUNIOR TOKYO 9」、14サロンが参加
+
+出典:
+理美容ニュース「美容所数が28万件を突破、理容所数は減少続く 令和7年度衛生行政報告例」: https://ribiyo-news.jp/?p=51930
+理美容ニュース「理容業は採算・客単価がプラス圏、美容業は利用客数や売上に課題」: https://ribiyo-news.jp/?p=51939
+ビューティオピア「田谷中間 売上高が2.7%減の24億円、営業損失は1億円」: https://www.beautopia.jp/221344/
+ビューティオピア「日華化学3Q 売上高が14.7%増の472億円」: https://www.beautopia.jp/221356/
+ビューティオピア「高市首相が美容議連の最高顧問に!その裏側とは?」: https://www.beautopia.jp/220274/
+ホットペッパービューティーアカデミー「JUNIOR TOKYO 9 ヘアショーレポート」: https://hba.beauty.hotpepper.jp/check/83745/]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-31.mp3" length="1399392" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-10-31.mp3</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>233</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年10月30日</title>
       <description><![CDATA[美容室・理美容(市場調査) — 白髪染め市場は6,485億円に拡大。けん引は40代・50代、サロン染めは4,889億円 / 業界全般・経営(人材・資本提携) — セイファートがフルキャストHDと資本業務提携、約2.9億円を調達 / 美容室・理美容(経営事例) — 平均売上100万円超、離職率4%。大分のjuve.が語る組織づくり / 美容室・理美容(店販・メニュー設計) — 中野製薬「ソンク」、加温・放置なしの3ステップで若年層と店販を狙う / アイビューティー(メニュー開発) — ケイトステージラッシュ名古屋金山店、まつげパーマ前のケア2種を各550円で導入 / エステ(業界団体・交流) — エステティックグランプリ、岐阜で交流会。11名がサロンの垣根を越えて情報交換
@@ -1490,22 +1507,6 @@ PR TIMES(美容室利用者が最も相談しにくい悩みは「薄毛・抜�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-02.mp3</guid>
       <pubDate>Sun, 02 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>328</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月1日</title>
-      <description><![CDATA[業界全般・経営(市場データ) — 理美容業の景況感、4〜6月期はやや改善も先行きは悪化見込み 日本政策金融公庫調査 / アイビューティー — まつげ・眉毛サロン「elua」、オンライン診療との提携で登録100人突破 来店後も収益機会創出 / 美容室・理美容(素材メーカー動向) — 日華化学、中間決算は増収増益 化学品好調も化粧品事業は苦戦 / ネイル — ネイルサロン店舗数ランキング、首位「ハートネイル」299店 全国推定3万店で競争激化 / ヘッドスパ — 千葉・南流山にプラネタリウム型ドライヘッドスパ、クラウドファンディングで開業支援募る
-
-出典:
-理美容ニュース(理容業・美容業の景況感が改善): https://ribiyo-news.jp/?p=51147
-PR TIMES(株式会社anuenue、「elua」とDr.オンライン連携で登録100人達成): https://prtimes.jp/main/html/rd/p/000000023.000163586.html
-ビュートピア(日華化学中間、売上高14.1%増の310億円): https://www.beautopia.jp/215342/
-研成社(ネイルサロン店舗数ランキング): https://kenseisha.com/20260701_nailsalonrank/
-PR TIMES(株式会社リラクラ、「Aries南流山」クラウドファンディング開始): https://prtimes.jp/main/html/rd/p/000000003.000158095.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-01.mp3" length="1651968" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-01.mp3</guid>
-      <pubDate>Sat, 01 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>275</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
