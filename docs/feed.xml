@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 20:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:04:44 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,22 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月8日</title>
+      <description><![CDATA[業界全般・経営(法規制) — 財務省、美容医療機関から負担金を徴収する仕組みを提案 / エステ(業界団体) — 日本エステティック協会の前理事長に有罪判決、名古屋地裁 / 業界全般・経営(M&A・シェアサロン) — GO TODAY SHAiRE SALON、銀座・表参道のシェアサロン2店舗を譲受 / 美容室・理美容(店販) — アルテジェネシス、体験型ビューティースタンド「Labo en」を中目黒に開業 / 美容室・理美容(人材・技能) — 令和8年度「現代の名工」に理美容業界から6名
+
+出典:
+理美容ニュース「財務省、美容医療機関からの負担金徴収を提案」: https://ribiyo-news.jp/?p=52014
+理美容ニュース「日本エステティック協会前理事長に有罪判決 名古屋地裁」: https://ribiyo-news.jp/?p=52039
+理美容ニュース「GO TODAY SHAiRE SALON、銀座・表参道のシェアサロン2店舗を譲受」: https://ribiyo-news.jp/?p=52041
+理美容ニュース「理美容室の店販をアップデート 体験型「Labo en」が中目黒に誕生」: https://ribiyo-news.jp/?p=52052
+理美容ニュース「令和8年度「現代の名工」 理美容業界から6名」: https://ribiyo-news.jp/?p=52056]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-08.mp3" length="1345392" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-08.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>224</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月7日</title>
       <description><![CDATA[業界全般・経営(消費データ) — 8月の理美容サービス支出は1世帯3,384円、前年比6.9%減。パーマ代は33.0%減 / 業界全般・経営(予約システム) — LAMP、LINEとAIで予約から決済まで完結する「LocalBuzz Reserve」を11月6日に提供開始 / 業界全般・経営(人材・採用) — エクステ・カラー専門店で応募144名、採用14名。成果報酬型の求人と「歓迎される選考」がカギ / 業界全般・経営(大手動向) — 日本ロレアルの新社長にフィリップ・アルシャンボー氏、11月1日付で就任 / アイビューティー(メンズ眉毛) — メンズ眉毛サロンラボが千葉駅前に11月6日オープン。2030年までに100店舗を目標 / 美容室・理美容(受賞) — 岩屋真さん、「Creative Colourist of the Year 2026」を受賞。日本人として2度目
@@ -1483,23 +1499,6 @@ PR TIMES(業界NO.1の店舗数ヘアカラー専門店fufu、2026年8月6日糀
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-10.mp3</guid>
       <pubDate>Mon, 10 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>356</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月9日</title>
-      <description><![CDATA[業界全般・経営(消費統計) — カット代支出14.9パーセント増、パーマ代は初の1万円超え / 業界全般・経営(プラットフォーム決算) — リクルートHD1Q、営業利益66.1パーセント増の2554億円 / 業界全般・経営(サロン向けDXツール) — 予約管理「saloriza」、楽天ビューティとAPI連携を開始 / 美容室・理美容(経営戦略・多角化) — 創業40周年のアルテジェネシス、メンズ市場・次世代EC強化 / アイビューティー(まつげ・眉) — アイサロン「amii.」、千葉のJAGARAと2社目のFC提携 / エステ(予防美容・FC展開) — AI肌診断×小顔矯正の「KAOLABO」、フランチャイズ展開始動
-
-出典:
-理美容ニュース(カット代の支出14.9%増、料金値上げが影響【家計調査2026年4〜6月期】): https://ribiyo-news.jp/?p=51235
-ビュートピア(リクルートHD1Q 売上高が18.9%増の1兆453億円、営業利益は66.1%増の2554億円): https://www.beautopia.jp/215963/
-PR TIMES(「saloriza（サロリザ）」が「楽天ビューティ」とAPI連携を開始): https://prtimes.jp/main/html/rd/p/000000011.000085254.html
-PR TIMES(創業40周年を迎えた美容室チェーン・アルテジェネシス　メンズ市場・次世代ECなど新たな成長戦略を加速): https://prtimes.jp/main/html/rd/p/000000383.000049680.html
-PR TIMES(【2社目のFC提携】急成長中のアイサロンブランド「amii.」、千葉県内で美容サロン5店舗を展開する「株式会社JAGARA」と事業提携を締結): https://prtimes.jp/main/html/rd/p/000000008.000142843.html
-PR TIMES(「予防美容型」小顔×肌管理特化サロン「KAOLABO」新美容ブランド始動): https://prtimes.jp/main/html/rd/p/000000007.000185376.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-09.mp3" length="1764000" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-09.mp3</guid>
-      <pubDate>Sun, 09 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>294</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
