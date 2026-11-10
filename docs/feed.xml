@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:07:29 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月11日</title>
+      <description><![CDATA[美容室・理美容(消費動向) — 家計調査7〜9月期、パーマ代は前期比14.0%減、理髪料は2.9%増 / ヘッドスパ・リラクゼーション(市場調査) — リラク市場は9.9%減の3,423億円、男性の「脱衣の施術」は23.9%増 / 業界全般・経営(大手決算) — 資生堂第3四半期、売上高6.8%増の7,411億円、通期予想を修正 / 業界全般・経営(大手決算) — コーセーHD第3四半期、売上高3.7%増の2,494億円、営業利益は6.0%減 / エステ・リラクゼーション(トレンド) — 「履くだけ、着るだけ」の疲労回復商品がサロンでも注目 / 美容室・理美容(理容・店販) — ウエダ美粧堂、髭ブラシ3種5アイテム発売、「キープブラシ」を提案
+
+出典:
+理美容ニュース「理髪料は2.9%増、パーマネント代は14.0%減 【家計調査2026年7～9月期】」: https://ribiyo-news.jp/?p=52083
+ホットペッパービューティーアカデミー「着衣の施術が苦戦する中で、「男性の脱衣ニーズ」急増の背景」: https://hba.beauty.hotpepper.jp/search/column/c_rela/83913/
+ビュートピア「資生堂3Q 売上高が6.8%増の7411億円、営業利益は634億円」: https://www.beautopia.jp/221909/
+ビュートピア「コーセーHD3Q 売上高が3.7%増の2494億円、営業利益は6.0%減の127億円」: https://www.beautopia.jp/221887/
+ビュートピア「“履くだけ、着るだけ”ブームはサロンにも 手軽な心身の疲労回復に注目」: https://www.beautopia.jp/221277/
+理美容ニュース「ウエダ美粧堂、髭ブラシ3種5アイテム発売 理容室での「キープブラシ」を提案」: https://ribiyo-news.jp/?p=52074]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-11.mp3" length="2093184" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-11.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>348</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月10日</title>
       <description><![CDATA[美容室・理美容(倒産動向) — 2026年度上半期の美容室倒産は54件、4年ぶりに前年を下回るも高水準 / 業界全般・経営(海外動向) — 中国でクイックカットが拡大、従来型美容室は第1四半期に8万6,000店の純減 / 業界全般・経営(大手決算) — アイスタイル第1四半期、売上高6.4%増の196億円、営業利益は17.9%減 / 業界全般・経営(商材EC) — ビューティガレージ、ECに「医療・クリニック」カテゴリを新設 / ネイル(イベント) — 東京ネイルエキスポ2026は11月22・23日、東京ビッグサイトで77社・団体が出展 / ヘッドスパ・美容機器(新製品) — ReFa、頭皮から顔まで一続きでケアするブラシ型美容機器をサロン先行発売
@@ -1478,23 +1495,6 @@ PR TIMES(La HEAD、整骨院との技術連携による新施術を開始): http
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-13.mp3</guid>
       <pubDate>Thu, 13 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>299</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月12日</title>
-      <description><![CDATA[業界全般・経営(市場調査) — 理美容サロン市場、2025年度は2兆1030億円で2020年度以来の前年割れ / エステ(消費者相談) — エステ関連相談が前年度比49.8パーセント増、初のワースト5入り / 美容室・理美容(市場調査) — 美容室市場5.9パーセント減も、男性向けサービスは拡大 / アイビューティー(まつげ・眉) — 眉毛専門サロンが急拡大、アデランスも参入し男性客3割 / ネイル(市場調査) — ネイル市場2.7パーセント減も、男性客の深耕が新たな収益源に
-
-出典:
-理美容ニュース(2025年度の理美容サロン市場は1％減): https://ribiyo-news.jp/?p=51221
-矢野経済研究所(理美容サロン市場に関する調査を実施(2026年)): https://www.yano.co.jp/press-release/show/press_id/4150
-理美容ニュース(エステティックサービスの相談件数が約5割増): https://ribiyo-news.jp/?p=51231
-理美容ニュース(美容室市場が前年比5.9％減の1.3兆円 美容センサス2026上期): https://ribiyo-news.jp/?p=50834
-ビジネス+IT(「眉毛サロン」なぜ急増？アデランスも参入、男性客3割・リピート率7割…新市場の裏側): https://www.sbbit.jp/article/cont1/186219
-美容業界の調査はホットペッパービューティーアカデミー(【ネイルサロン編】美容センサス2026年上期): https://hba.beauty.hotpepper.jp/search/census/2026-1st-half/79147/]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-12.mp3" length="1759248" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-12.mp3</guid>
-      <pubDate>Wed, 12 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>293</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
