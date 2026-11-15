@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:08:07 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月16日</title>
+      <description><![CDATA[業界全般・経営(大手決算) — ミルボン第3四半期、売上高8.7%増の411億円、営業利益は64.8%増 / 美容室・理美容(グループ再編) — 約60店舗のファイブスター、持株会社「FIVESTAR HOLDINGS」を設立 / ヘッドスパ・リラクゼーション(予約データ) — 当日予約はリラク43%、ヘッドスパ専門店18%、リザービア調査 / アイビューティー(新商材) — ラッシュリフトと貼るまつげを組み合わせる「LASHIRA」、サロン向けに発売 / 美容室・理美容(集客・白髪カラー) — 白髪を活かすカラーの認定美容師と大人女性をつなぐ「NISHIGAI LABO」が本格始動 / 業界全般・経営(DX・トラブル予防) — 同意書をお客様のスマホで、SCAT「クラウドカルテ」がデジタル取得機能
+
+出典:
+ミルボン「2026年12月期第3四半期決算短信」: https://www.milbon.com/ja/news/uploads/docs/20260930_67s3q_tanshin.pdf
+PR TIMES(ファイブスター)「ファイブスター、持株会社「株式会社FIVESTAR HOLDINGS」を設立」: https://prtimes.jp/main/html/rd/p/000000022.000124190.html
+PR TIMES(リザービア)「リラクゼーションとヘッドスパ専門店、予約から来店までの日数は1日と7日」: https://prtimes.jp/main/html/rd/p/000000021.000035976.html
+PR TIMES(プラスカンパニー)「プロ向けまつげブランド「LASHIRA」11月13日発売」: https://prtimes.jp/main/html/rd/p/000000013.000168844.html
+PR TIMES(SEDONA CAMP)「白髪を染める「グレーカラーメソッド」の認定美容師と大人女性をつなぐ集客サイト「NISHIGAI LABO」を本格始動」: https://prtimes.jp/main/html/rd/p/000000007.000193113.html
+ビュートピア「同意書こそデジタルで“簡単、確実、安心” SCAT「クラウドカルテ」の便利機能」: https://www.beautopia.jp/221379/]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-16.mp3" length="1965312" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-16.mp3</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>327</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月15日</title>
       <description><![CDATA[業界全般・経営(予約データ) — サロンのネット予約、27.0%は夜7時以降に入る、リザービア調査 / 業界全般・経営(法規制・カスハラ) — 美容サロン向けカスハラ対策「スマイルサロンプラス」、12月から月額1,000円で / 業界全般・経営(DX・顧客管理) — 施術中の会話をAIがカルテに、サロン向けアプリ「BEFORE AFTER」が機能強化 / 業界全般・経営(DX・販促) — 確定申告からテレビCMまで、美容サロン向けAIサービスが多様化 / 美容室・理美容(店販・新サービス) — 美容室20店舗で家庭用光美容器の体験会、サイネージ「BEAUTINISTA TV」が連携 / ネイル(開業支援) — 「失敗しないネイルサロン開業セミナー」、メニュー表作りと開業準備をオンラインで
@@ -1480,22 +1497,6 @@ PR TIMES/株式会社elun(完全予約制ネイルサロン「elun」2026年8月
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-18.mp3</guid>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>305</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月17日</title>
-      <description><![CDATA[美容室・理美容(家計調査) — カット代支出、家計調査で前期比14.9パーセント増 単価上昇が押し上げ / アイビューティー(市場調査) — 眉毛施術は男性がけん引、値上げ後も9割超が継続利用意向 / エステ(消費者トラブル) — エステ相談件数が49.8パーセント増の1万4691件、ランクは16位から5位に急上昇 / 業界全般・経営(市場調査) — 理美容サロン市場、2025年度は1.0パーセント減の2兆1030億円 矢野経済研は2026年度も横ばい予測 / 業界全般・経営(消費者動向) — 美容への関心、女性は若年層ほど高く 男性も10〜30代で3割強
-
-出典:
-理美容ニュース(カット代の支出14.9％増、料金値上げが影響　【家計調査2026年4〜6月期】): https://ribiyo-news.jp/?p=51235
-ホットペッパービューティーアカデミー(付加価値メニューに関する調査【眉毛施術編】): https://hba.beauty.hotpepper.jp/search/trade/salon/s_mens/81422/
-理美容ニュース(エステティックサービスの相談件数が約5割増　2025年度は5位に浮上【国民生活センター】): https://ribiyo-news.jp/?p=51231
-理美容ニュース(矢野経済研究所、2025年度の理美容サロン市場は1％減　2026年度も横ばい予測): https://ribiyo-news.jp/?p=51221
-理美容ニュース(美容への関心、女性は若年層ほど高く　男性も10～30代で3割強): https://ribiyo-news.jp/?p=51240]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-17.mp3" length="1923264" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-17.mp3</guid>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>320</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
