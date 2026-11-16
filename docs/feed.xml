@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:07:59 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月17日</title>
+      <description><![CDATA[エステ(消費者調査) — 20代の43%が生成AIでエステを探す、50代の9割は「勧誘」に不安 / ネイル(大手決算) — FASTNAILのコンヴァノ中間決算、ネイル事業は売上18億円・黒字を確保 / ネイル(新業態・出店) — 「飾る」から「育てる」へ、地爪ケア専門サロンが名古屋・大曽根に出店 / 美容室・理美容(上場サロン決算) — エム・エイチ・グループ第1四半期、売上54.4%増も営業損失 / 業界全般・経営(頭髪関連大手) — アートネイチャー中間決算、売上1.4%減・営業利益37.2%減 / 美容室・理美容(人材育成) — 第18回「理美容甲子園」、全国の学生約2,000人が岡山で技術を競う
+
+出典:
+PR TIMES(アイファイン)「20代の43%が生成AIでエステサロンを探す時代に。AI経由の予約・来店は1割、一方で50代の9割は「勧誘」に不安」: https://prtimes.jp/main/html/rd/p/000000006.000121796.html
+PR TIMES(コンヴァノ)「コンヴァノ、2027年3月期中間決算を発表。売上収益153億円、営業利益41億円」: https://prtimes.jp/main/html/rd/p/000000181.000006824.html
+PR TIMES(TAT)「爪は「飾る」から「育てる」へ。地爪ケア専門サロンが愛知・名古屋市大曽根に2026年11月22日オープン」: https://prtimes.jp/main/html/rd/p/000000017.000064499.html
+ビュートピア「エム・エイチ・グループ1Q 売上高が54.4%増の7億円、営業損失は0.3億円」: https://www.beautopia.jp/222229/
+ビュートピア「アートネイチャー中間 売上高が1.4%減の211億円、営業利益は37.2%減の8億円」: https://www.beautopia.jp/222216/
+理美容ニュース「第18回理美容甲子園を岡山で開催 全国の学生が技術を競う」: https://ribiyo-news.jp/?p=52150]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-17.mp3" length="2294208" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-17.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>382</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月16日</title>
       <description><![CDATA[業界全般・経営(大手決算) — ミルボン第3四半期、売上高8.7%増の411億円、営業利益は64.8%増 / 美容室・理美容(グループ再編) — 約60店舗のファイブスター、持株会社「FIVESTAR HOLDINGS」を設立 / ヘッドスパ・リラクゼーション(予約データ) — 当日予約はリラク43%、ヘッドスパ専門店18%、リザービア調査 / アイビューティー(新商材) — ラッシュリフトと貼るまつげを組み合わせる「LASHIRA」、サロン向けに発売 / 美容室・理美容(集客・白髪カラー) — 白髪を活かすカラーの認定美容師と大人女性をつなぐ「NISHIGAI LABO」が本格始動 / 業界全般・経営(DX・トラブル予防) — 同意書をお客様のスマホで、SCAT「クラウドカルテ」がデジタル取得機能
@@ -1481,22 +1498,6 @@ PR TIMES/株式会社Paw(ネイルサロン「SISU」原宿に8月29日オープ
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-19.mp3</guid>
       <pubDate>Wed, 19 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>271</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月18日</title>
-      <description><![CDATA[業界全般・経営(市場調査) — 理美容業の活動指数、6月は5.1ポイント低下し再び100割れ / 業界全般・経営(企業決算) — アイスタイル通期、売上高19.0パーセント増の818億円 / 業界全般・経営(労務・法規制) — 最低賃金2026年度目安、全国平均1176円に55円増 / 美容室・理美容(店舗展開) — ヘアカラー専門店「カラープラス」、全国75店舗に拡大 / ネイル(新規開業・差別化戦略) — 大阪・箕面に完全予約制ネイルサロン「elun」開業
-
-出典:
-理美容ニュース(理美容業とも低下 ＜第三次産業活動指数 2026年6月＞): https://ribiyo-news.jp/?p=51253
-Beautopia(アイスタイル通期 売上高が19.0%増の818億円、営業利益は29.1%増の40億円): https://www.beautopia.jp/216356/
-ナレビ(2026年全国最低賃金目安): https://nalevi.mynavi.jp/law/20192/
-STRAIGHT PRESS(「ヘアカラー専門店カラープラス 春日原駅前店」オープン): https://straightpress.jp/20260812/1681993
-PR TIMES/株式会社elun(完全予約制ネイルサロン「elun」2026年8月グランドオープン): https://prtimes.jp/main/html/rd/p/000000002.000187567.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-18.mp3" length="1831824" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-18.mp3</guid>
-      <pubDate>Tue, 18 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>305</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
