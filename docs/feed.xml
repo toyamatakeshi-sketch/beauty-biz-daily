@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:06:29 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月18日</title>
+      <description><![CDATA[業界全般・経営(統計) — 9月の美容業活動指数は前月比3.4%低下、理容業も2.1%低下 / 美容室・理美容(大手決算) — QBハウスのキュービーネットHD第1四半期、売上5.5%増も営業利益10.8%減 / ヘッドスパ・リラクゼーション(集客調査) — リラクサロンの継続理由1位は「ネット予約できる」、ホットペッパービューティーアカデミー分析 / 業界全般・経営(DX・リピート施策) — 仕上がり写真を施術直後にLINEで送信、「SalonAnswer」モバイル版に新機能 / エステ(経営・倒産動向) — エステ倒産が過去最多ペースの中、年商1億円を目指す経営書が発売 / アイビューティー・ネイル(新商材) — 眉毛や鼻毛のワックス脱毛用スティック、滝川が東京ネイルエキスポで発売
+
+出典:
+理美容ニュース「力強さ欠く理美容業 ＜第三次産業活動指数 2026年9月＞」: https://ribiyo-news.jp/?p=52163
+Beautopia「キュービーネットHD1Q 売上高が5.5％増の71億円、営業利益は10.8％減の5億円」: https://www.beautopia.jp/222239/
+ホットペッパービューティーアカデミー「新規集客からリピートまで！「予約サイト」と「口コミ」がリラクサロンで重視される理由」: https://hba.beauty.hotpepper.jp/search/column/c_rela/83945/
+PR TIMES(エクシードシステム)「SalonAnswerモバイル版に「お客様へのプッシュ通知(メッセージ配信)機能」追加」: https://prtimes.jp/main/html/rd/p/000000013.000074862.html
+PR TIMES(星野書房)「書籍『1億円事業の教科書』11/18発売」: https://prtimes.jp/main/html/rd/p/000000022.000146524.html
+理美容ニュース「滝川、「&T's 2wayワックススティック」発売 細かな施術をサポート」: https://ribiyo-news.jp/?p=52159]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-18.mp3" length="2182608" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-18.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>363</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月17日</title>
       <description><![CDATA[エステ(消費者調査) — 20代の43%が生成AIでエステを探す、50代の9割は「勧誘」に不安 / ネイル(大手決算) — FASTNAILのコンヴァノ中間決算、ネイル事業は売上18億円・黒字を確保 / ネイル(新業態・出店) — 「飾る」から「育てる」へ、地爪ケア専門サロンが名古屋・大曽根に出店 / 美容室・理美容(上場サロン決算) — エム・エイチ・グループ第1四半期、売上54.4%増も営業損失 / 業界全般・経営(頭髪関連大手) — アートネイチャー中間決算、売上1.4%減・営業利益37.2%減 / 美容室・理美容(人材育成) — 第18回「理美容甲子園」、全国の学生約2,000人が岡山で技術を競う
@@ -1482,22 +1499,6 @@ PR TIMES/株式会社プロ・フィールド(顧客管理「TreasureBox2」が�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-20.mp3</guid>
       <pubDate>Thu, 20 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>290</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月19日</title>
-      <description><![CDATA[業界全般・経営(企業倒産) — 理美容室向け「T2炭酸システム」のロータスプロモーションが自己破産 / 業界全般・経営(企業決算) — エム・エイチ・グループ、通期は増収も赤字続く 直営サロン事業の利益42.5パーセント減 / 美容室・理美容(付加価値メニュー・社会貢献) — アピアランスケア支援自治体が8割に、ウィッグ助成も拡充 / ネイル(新規開業・差別化戦略) — 原宿にコンセプト重視のネイルサロン「SISU」8月29日オープン / 業界全般・経営(海外展開) — ビューティガレージ、マレーシアで「デミ コスメティクス」独占販売開始
-
-出典:
-理美容ニュース(理美容室向け「T2炭酸システム」展開のロータスプロモーションが自己破産): https://ribiyo-news.jp/?p=51257
-ビュートピア(エム・エイチ・グループ通期 売上高が0.3%増の18億円、営業損失は0.5億円): https://www.beautopia.jp/216813/
-理美容ニュース(アピアランスケア支援自治体が8割に　ウィッグ助成も拡充): https://ribiyo-news.jp/?p=51259
-PR TIMES/株式会社Paw(ネイルサロン「SISU」原宿に8月29日オープン): https://prtimes.jp/main/html/rd/p/000000012.000111583.html
-理美容ニュース(ビューティガレージ、マレーシアで「デミ コスメティクス」を独占販売): https://ribiyo-news.jp/?p=51263]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-19.mp3" length="1631664" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-19.mp3</guid>
-      <pubDate>Wed, 19 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>271</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
