@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:08:11 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月19日</title>
+      <description><![CDATA[美容室・理美容(予約DX) — ホットペッパービューティーに「事前カウンセリング機能」、紙運用は88.4% / 業界全般・経営(予約データ) — サロン予約の2割は土曜に集中、ピークは午前10時、リザービア調査 / 業界全般・経営(人材・規制) — 北海道、旭川・滝川の外国人美容師育成事業で監理実施機関を募集 / 美容室・理美容(出店戦略) — メンズ専門美容室「L-MARK」、12月に単月8店舗を全国一斉出店 / エステ(契約DX・法令対応) — 電子契約「けいやくん」、ショッピングクレジットとシステム連携 / ネイル(新商材) — アセトン不要のLaShade、HEMAフリーのボトル型「ティップスティック」を発売
+
+出典:
+理美容ニュース「紙運用が88.4％ リクルート、来店前カウンセリング機能でサロン業務を効率化」: https://ribiyo-news.jp/?p=52175
+PR TIMES(リザービア)「サロンの来店予約、2割は土曜に集中」: https://prtimes.jp/main/html/rd/p/000000026.000035976.html
+理美容ニュース「北海道、外国人美容師育成事業の監理実施機関を募集 旭川・滝川が対象」: https://ribiyo-news.jp/?p=52167
+PR TIMES(L-MARK)「L-MARK、同一ブランドで単月8店舗を新規出店へ」: https://prtimes.jp/main/html/rd/p/000000009.000152391.html
+PR TIMES(ウィル・ドゥ)「けいやくん、アルファノートのショッピングクレジットサービスとシステム連携を開始」: https://prtimes.jp/main/html/rd/p/000000005.000181987.html
+PR TIMES(AIMO Beauty LABO)「LaShade、ラシェード ヘマフリー ティップスティック(ボトルタイプ)を発売」: https://prtimes.jp/main/html/rd/p/000000004.000158059.html]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-19.mp3" length="2265552" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-19.mp3</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>377</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月18日</title>
       <description><![CDATA[業界全般・経営(統計) — 9月の美容業活動指数は前月比3.4%低下、理容業も2.1%低下 / 美容室・理美容(大手決算) — QBハウスのキュービーネットHD第1四半期、売上5.5%増も営業利益10.8%減 / ヘッドスパ・リラクゼーション(集客調査) — リラクサロンの継続理由1位は「ネット予約できる」、ホットペッパービューティーアカデミー分析 / 業界全般・経営(DX・リピート施策) — 仕上がり写真を施術直後にLINEで送信、「SalonAnswer」モバイル版に新機能 / エステ(経営・倒産動向) — エステ倒産が過去最多ペースの中、年商1億円を目指す経営書が発売 / アイビューティー・ネイル(新商材) — 眉毛や鼻毛のワックス脱毛用スティック、滝川が東京ネイルエキスポで発売
@@ -1482,23 +1499,6 @@ PR TIMES/SS-INNOVATION合同会社(「deumoon」モリワキジュリナ氏と�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-21.mp3</guid>
       <pubDate>Fri, 21 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>320</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月20日</title>
-      <description><![CDATA[美容室・理美容(新商品・店販戦略) — ホーユー、サロン専売カラーシャンプーを9月3日発売 / ネイル(付加価値メニュー・差別化戦略) — ネイリスト向け「ネイル×アロマ」「ネイル×ヘッドスパ」無料体験会 / ヘッドスパ・リラクゼーション(市場調査・多店舗展開) — 「HEAD SPA Kuu」が調査で3部門1位、あべのハルカスでポップアップ / アイビューティー(付加価値メニュー) — uka、まつ毛エクステとケアラッシュリフトの同時施術メニュー開始 / 業界全般・経営(労務・法務) — 元理容室経営の弁護士が「問題スタッフ」「賃料増額請求」対応セミナー / 業界全般・経営(集客・経営支援) — 顧客管理「TreasureBox2」、データ分析型の伴走コンサルプラン開始
-
-出典:
-理美容ニュース(ホーユー、SOMARCA Lab.からサロン専売カラーシャンプーを9月3日発売): https://ribiyo-news.jp/?p=51267
-PR TIMES/株式会社ピー・エス・インターナショナル(ネイリスト向け「ネイル×アロマ」「ネイル×ヘッドスパ」無料体験会): https://prtimes.jp/main/html/rd/p/000000192.000005458.html
-PR TIMES/株式会社Qvou(「HEAD SPA Kuu」がヘッドスパ市場調査で3冠、あべのハルカスでポップアップ): https://prtimes.jp/main/html/rd/p/000000036.000063938.html
-PR TIMES/株式会社ウカ(まつ毛エクステ×ケアラッシュリフトの新メニュー「&healthy」開始): https://prtimes.jp/main/html/rd/p/000000565.000050026.html
-PR TIMES/杉山法律事務所(理美容サロン向け「問題スタッフ対応・賃料増額請求対応」無料セミナー): https://prtimes.jp/main/html/rd/p/000000001.000188672.html
-PR TIMES/株式会社プロ・フィールド(顧客管理「TreasureBox2」が売上アップ伴走プラン開始): https://prtimes.jp/main/html/rd/p/000000035.000094387.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-20.mp3" length="1741248" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-20.mp3</guid>
-      <pubDate>Thu, 20 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>290</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
