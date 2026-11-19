@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:07:07 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月20日</title>
+      <description><![CDATA[業界全般・経営(情報セキュリティ) — タカラベルモント、外部サービス経由で顧客情報3万2419件が漏えい / 業界全般・経営(行政・組合) — 厚労省、生衛組合の国庫補助金事業に点検を要請、11月30日まで報告 / 美容室・理美容(新たな収益源) — 「雑談を収益化」、美容師のおすすめが顧客行動に与える影響を実証へ / エステ(出店・FC展開) — 都度払い・勧誘なしのハーブピーリング専門「La Viora Clinical」が東京初出店 / ヘッドスパ・リラクゼーション(集客施策) — ドライヘッドスパ「La HEAD」、来店不要で贈れる「招待型ギフト」開始 / ネイル(展示会) — 「東京ネイルエキスポ2026」、22・23日に東京ビッグサイトで開催、77社・団体が出展
+
+出典:
+理美容ニュース「タカラベルモント、不正アクセスで顧客情報が漏えい 2サービスで計3万2419件」: https://ribiyo-news.jp/?p=52185
+理美容ニュース「厚労省、生衛連合会などに国庫補助金事業の点検を要請」: https://ribiyo-news.jp/?p=52187
+理美容ニュース「理美容師の「おすすめ」が顧客行動に与える影響を検証 マイクロバブル・ジャパンが実証実験の参加企業を募集」: https://ribiyo-news.jp/?p=52179
+PR TIMES(LV&パートナーズ)「「削る美容」ではなく「育てる美容」のハーブピーリング専門サロン「La Viora Clinical」が六本木にオープン」: https://prtimes.jp/main/html/rd/p/000000010.000177946.html
+PR TIMES(Karada Works)「新宿・西新宿のドライヘッドスパ「La HEAD」、「招待型ギフト」を11月15日より提供開始」: https://prtimes.jp/main/html/rd/p/000000011.000174705.html
+ビュートピア「東京ネイルエキスポ2026 77社・団体を一挙公開！」: https://www.beautopia.jp/219540/]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-20.mp3" length="2029392" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-20.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>338</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月19日</title>
       <description><![CDATA[美容室・理美容(予約DX) — ホットペッパービューティーに「事前カウンセリング機能」、紙運用は88.4% / 業界全般・経営(予約データ) — サロン予約の2割は土曜に集中、ピークは午前10時、リザービア調査 / 業界全般・経営(人材・規制) — 北海道、旭川・滝川の外国人美容師育成事業で監理実施機関を募集 / 美容室・理美容(出店戦略) — メンズ専門美容室「L-MARK」、12月に単月8店舗を全国一斉出店 / エステ(契約DX・法令対応) — 電子契約「けいやくん」、ショッピングクレジットとシステム連携 / ネイル(新商材) — アセトン不要のLaShade、HEMAフリーのボトル型「ティップスティック」を発売
@@ -1482,23 +1499,6 @@ PR TIMES/株式会社5C(&Less BEAUTY「マグネットつけまつげ」アミ�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-22.mp3</guid>
       <pubDate>Sat, 22 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>332</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月21日</title>
-      <description><![CDATA[業界全般・経営(海外展開) — QBハウス、香港に高価格帯業態「QB PREMIUM」を再投入 / 業界全般・経営(集客・ブランディング施策) — ファイブスター、社長自ら出演のポッドキャスト「BEST BUY」開始 / 美容室・理美容(集客・マーケティング) — 韓国ヘアケア「ミジャンセン」、人気サロン「LAPIS」と体験コラボ / ヘッドスパ・リラクゼーション(自社ブランド・店販戦略) — 大阪の美容室MASHU、頭皮保湿トナー「スカルプソファ」発売 / アイビューティー(付加価値メニュー) — rohas companyら、「プロテインラッシュリフト」新メニューを提案 / ネイル(新商品・コラボ) — ジェルネイル「deumoon」、ネイリスト モリワキジュリナ氏とのコラボ第2弾
-
-出典:
-PR TIMES/キュービーネットホールディングス株式会社(香港に高価格帯業態「QB PREMIUM」を再出店): https://prtimes.jp/main/html/rd/p/000000064.000061391.html
-Beautopia(ファイブスターがポッドキャスト番組「BEST BUY」開始): https://www.beautopia.jp/217009/
-PR TIMES/C-position株式会社(「ミジャンセン」新商品を「LAPIS」等で体験提供): https://prtimes.jp/main/html/rd/p/000000039.000090144.html
-PR TIMES/株式会社MASHU(頭皮保湿トナー「スカルプソファ」発売): https://prtimes.jp/main/html/rd/p/000000008.000178684.html
-PR TIMES/株式会社rohas company(「プロテインラッシュリフト」新メニュー提案): https://prtimes.jp/main/html/rd/p/000000032.000104679.html
-PR TIMES/SS-INNOVATION合同会社(「deumoon」モリワキジュリナ氏とのコラボ第2弾): https://prtimes.jp/main/html/rd/p/000000005.000160431.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-21.mp3" length="1922976" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-21.mp3</guid>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>320</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
