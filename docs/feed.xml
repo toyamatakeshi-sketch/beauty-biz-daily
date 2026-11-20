@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:06:46 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,24 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月21日</title>
+      <description><![CDATA[業界全般・経営(倒産動向) — 物価高倒産、1〜10月で734件と前年同期比14.8%増 / 業界全般・経営(予約データ) — サロンのキャンセル、43.2%が前日・当日に集中、リザービア分析 / 美容室・理美容(人材・キャリア) — 「女性美容師のキャリアを応援する会」発足、2027年に本格始動 / 美容室・理美容(DX) — 佐賀のB・B・B、「DX推進方針」を公表、AIで事務を減らし接客と処遇改善へ / アイビューティー(経営人事) — まつげサロン「MARIE TERESIA」、施術者入社から約3年の飯田真巳氏が代表に / ヘッドスパ・リラクゼーション(季節メニュー) — uka、冬の「あったまろウカ」で温活ヘッドスパなど横断メニュー / ネイル(開業・コンセプト) — 京田辺に自爪育成サロン「Nailsalon Karna」、40代以上の爪の悩みに特化
+
+出典:
+ビュートピア「物価高による倒産相次ぐ！　昨年よりも増加傾向」: https://www.beautopia.jp/170200/
+PR TIMES(リザービア)「キャンセルの4割超が前日・当日」: https://prtimes.jp/main/html/rd/p/000000027.000035976.html
+ビュートピア「「女性美容師のキャリアを応援する会」が発足」: https://www.beautopia.jp/221250/
+PR TIMES(B・B・B)「DX推進方針を策定・公表」: https://prtimes.jp/main/html/rd/p/000000001.000194823.html
+PR TIMES(wowwe)「「MARIE TERESIA」新代表に飯田真巳氏が就任」: https://prtimes.jp/main/html/rd/p/000000051.000154699.html
+PR TIMES(uka)「あったまろウカ」: https://prtimes.jp/main/html/rd/p/000000591.000050026.html
+PR TIMES(Nailsalon Karna)「京田辺市に自爪育成サロン「Nailsalon Karna」オープン」: https://prtimes.jp/main/html/rd/p/000000004.000194470.html]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-21.mp3" length="2444832" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-21.mp3</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>407</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月20日</title>
       <description><![CDATA[業界全般・経営(情報セキュリティ) — タカラベルモント、外部サービス経由で顧客情報3万2419件が漏えい / 業界全般・経営(行政・組合) — 厚労省、生衛組合の国庫補助金事業に点検を要請、11月30日まで報告 / 美容室・理美容(新たな収益源) — 「雑談を収益化」、美容師のおすすめが顧客行動に与える影響を実証へ / エステ(出店・FC展開) — 都度払い・勧誘なしのハーブピーリング専門「La Viora Clinical」が東京初出店 / ヘッドスパ・リラクゼーション(集客施策) — ドライヘッドスパ「La HEAD」、来店不要で贈れる「招待型ギフト」開始 / ネイル(展示会) — 「東京ネイルエキスポ2026」、22・23日に東京ビッグサイトで開催、77社・団体が出展
@@ -1482,23 +1500,6 @@ PR TIMES/株式会社LiIBe(AIを活用しているサロンの経営層の3割�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-23.mp3</guid>
       <pubDate>Sun, 23 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>359</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月22日</title>
-      <description><![CDATA[業界全般・経営(市場調査・物価動向) — 理髪料、CPIで5カ月連続上昇 客単価上昇の裏付けデータに / 業界全般・経営(労務・支援策) — 厚労省、熊本地震で雇用調整助成金の特例措置 理美容業も対象に / ネイル(経営・決算) — コンヴァノ、ネイル事業は増収も新規出店費用がかさみ赤字に / エステ・リラクゼーション(高付加価値戦略) — 京都の高級ホテル、ミキモト監修のスパトリートメントを10月開始 / アイビューティー(店舗展開・販促戦略) — 磁力式つけまつげ「&Less BEAUTY」、熊本でポップアップ第2弾 / 美容室・理美容(新商品・店販戦略) — MTG「ReFa」、就寝中の髪ダメージに着目した新ライン発売
-
-出典:
-理美容ニュース(理髪料、5カ月連続で上昇 ＜2026年7月CPI＞): https://ribiyo-news.jp/?p=51291
-理美容ニュース(厚労省、熊本地震で雇用調整助成金の特例措置 理美容業なども対象): https://ribiyo-news.jp/?p=51282
-PR TIMES/株式会社コンヴァノ(2027年3月期第1四半期決算を発表): https://prtimes.jp/main/html/rd/p/000000161.000006824.html
-PR TIMES/HOTEL THE MITSUI KYOTO(「MIKIMOTO BEAUTY」プロデュースによるオリジナルSPAトリートメントを10月1日より提供開始): https://prtimes.jp/main/html/rd/p/000000099.000054747.html
-PR TIMES/株式会社5C(&Less BEAUTY「マグネットつけまつげ」アミュプラザくまもとPOP-UP第2弾): https://prtimes.jp/main/html/rd/p/000000004.000154659.html
-理美容ニュース(ReFa、夜間の髪ダメージに着目した「SLEEP LINE」発売): https://ribiyo-news.jp/?p=51278]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-22.mp3" length="1993824" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-22.mp3</guid>
-      <pubDate>Sat, 22 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>332</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
