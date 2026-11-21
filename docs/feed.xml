@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:07:19 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月22日</title>
+      <description><![CDATA[業界全般・経営(物価統計) — 10月CPI、理美容サービスの上昇は1%台にとどまる / エステ(安全・法令対応) — 「エステティックと医療の境界」がテーマ、第19回エステティック学術会議をWeb配信 / 美容室・理美容(大手メーカー動向) — ミルボン「BEAUTY FEST 2026」に約3,000人、コンテストを世界11都市に拡大 / 美容室・理美容(人材育成) — アシスタント主役のヘアショー「JUNIOR TOKYO 9」、Ashが9回連続出演 / 美容室・理美容(業界団体) — 全理連、BBジャパンカップ2027の競技4種目を決定、三重・四日市で開催 / アイビューティー(仕入れ・コスト) — ネイルエキスポに合わせ、まつげ商材が最大30%オフのセール
+
+出典:
+理美容ニュース「理美容サービスの物価上昇は小幅 <2026年10月CPI>」: https://ribiyo-news.jp/?p=52207
+PR TIMES(日本エステティック研究財団)「第19回エステティック学術会議を開催」: https://prtimes.jp/main/html/rd/p/000000003.000170918.html
+理美容ニュース「ミルボン「BEAUTY FEST 2026」開催」: https://ribiyo-news.jp/?p=52211
+PR TIMES(アルテジェネシス)「「JUNIOR TOKYO 9」に美容室Ashが9回連続参加」: https://prtimes.jp/main/html/rd/p/000000404.000049680.html
+理美容ニュース「BBジャパンカップ2027、競技種目4種目を決定」: https://ribiyo-news.jp/?p=52224
+Candy Pocket「ネイルエキスポコラボセール」: https://www.beautysupport.jp/2026/11/19/camp261122/]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-22.mp3" length="1851552" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-22.mp3</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>308</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月21日</title>
       <description><![CDATA[業界全般・経営(倒産動向) — 物価高倒産、1〜10月で734件と前年同期比14.8%増 / 業界全般・経営(予約データ) — サロンのキャンセル、43.2%が前日・当日に集中、リザービア分析 / 美容室・理美容(人材・キャリア) — 「女性美容師のキャリアを応援する会」発足、2027年に本格始動 / 美容室・理美容(DX) — 佐賀のB・B・B、「DX推進方針」を公表、AIで事務を減らし接客と処遇改善へ / アイビューティー(経営人事) — まつげサロン「MARIE TERESIA」、施術者入社から約3年の飯田真巳氏が代表に / ヘッドスパ・リラクゼーション(季節メニュー) — uka、冬の「あったまろウカ」で温活ヘッドスパなど横断メニュー / ネイル(開業・コンセプト) — 京田辺に自爪育成サロン「Nailsalon Karna」、40代以上の爪の悩みに特化
@@ -1483,23 +1500,6 @@ MANTANWEB/PR TIMES(アートネイチャー「ラボモ EMSヘッドスパN」8�
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-24.mp3</guid>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>240</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月23日</title>
-      <description><![CDATA[業界全般・経営(市場動向) — 第三次産業活動指数、理美容業が6月に5.1ポイント低下し100割れ / 美容室・理美容(経営戦略・出版) — リビアス代表・大西昌宏氏、「人手不足だからこそ多店舗展開」の指南書を8月24日発売 / ヘッドスパ・エステ(経営・サプライヤー動向) — サロン向け炭酸美容機器「T2」展開のロータスプロモーションが自己破産 / 業界全般・経営(DX・労務) — サロン経営層の56.5パーセントが生成AI活用、ただし手探り段階 / 業界全般・経営(集客支援サービス) — LeanBiz、Instagram×Googleビジネスプロフィール連携とAI口コミ作成をセット提供 / 美容室・理美容(異業種展開) — 理美容資材メーカーの三口産業、一般消費者向けスキンケアブランド「Mione」で市場参入
-
-出典:
-理美容ニュース(理美容業とも低下 ＜第三次産業活動指数 2026年6月＞): https://ribiyo-news.jp/?p=51253
-Atpress/あさ出版(「人手不足に悩んだら多店舗展開を進めなさい――理美容サロン『多店舗展開』の教科書」): https://www.atpress.ne.jp/news/9977135
-理美容ニュース(理美容室向け「T2炭酸システム」展開のロータスプロモーションが自己破産): https://ribiyo-news.jp/?p=51257
-PR TIMES/株式会社LiIBe(AIを活用しているサロンの経営層の3割以上が、自店では現在AIを「文章作成や検索など限定的に利用している」と回答！): https://prtimes.jp/main/html/rd/p/000000010.000087022.html
-理美容ニュース(LeanBiz、店舗集客を支援する「iG-Link＋ReviRise」を提供開始): https://ribiyo-news.jp/?p=51297
-理美容ニュース(三口産業、一般市場に進出 スキンケアブランド「Mione」を展開): https://ribiyo-news.jp/?p=51299]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-23.mp3" length="2158128" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-23.mp3</guid>
-      <pubDate>Sun, 23 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>359</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
