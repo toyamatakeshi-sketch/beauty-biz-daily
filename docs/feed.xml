@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:07:29 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,24 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月23日</title>
+      <description><![CDATA[業界全般・経営(料金統計) — 10月の小売物価統計、ヘアカラー代は都市間で倍以上の差、エステはばらつき最大 / 業界全般・経営(人材・賃金) — 東京の美容求人、正社員は最低賃金より月2万〜3.5万円高い水準、美プロ調べ / 美容室・理美容(メンズ・提案力) — 男性の64.2%が「理容師・美容師に聞いてみたいこと」あり、最多は薄毛の進行 / 美容室・理美容(メーカー・人材育成) — ウエラ「イルミナカラーサミット」に経営者約350人、成功サロンが育成や提案の実践を共有 / ヘッドスパ・リラクゼーション(人材育成) — 大阪「つぼみや」、小規模サロン向け定額制の技術研修コミュニティ「リラク研究会」 / エステ(海外展開) — 群馬のエステ・美容室運営PLAISIR、日本の美容5ブランドでベトナム企業と独占販売代理店契約
+
+出典:
+理美容ニュース「理美容は平均値近くに集中 <2026年10月の小売物価統計調査>」: https://ribiyo-news.jp/?p=52226
+理美容ニュース「10月のヘアカラー代、最高額と最低額で倍以上の差」: https://ribiyo-news.jp/?p=52241
+PR TIMES(Zenken)「美プロ調べ 2026年10月 最低賃金から見る美容業界の給料調査 東京版」: https://prtimes.jp/main/html/rd/p/000000738.000006978.html
+PR TIMES(バイオテック)「男性の64.2%が理容師・美容師に聞いてみたいことあり」: https://prtimes.jp/main/html/rd/p/000000020.000181511.html
+ビュートピア「ウエラ「イルミナカラーサミット」 成功サロンの実践と新色の活用策を共有」: https://www.beautopia.jp/222088/
+PR TIMES(TSUBOMIYA)「定額制コミュニティ「リラク研究会」を運営」: https://prtimes.jp/main/html/rd/p/000000018.000179758.html
+PR TIMES(PLAISIR)「ベトナム企業と日本の美容5ブランドに関する独占販売代理店契約を締結」: https://prtimes.jp/main/html/rd/p/000000005.000097720.html]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-23.mp3" length="2031984" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-23.mp3</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>338</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月22日</title>
       <description><![CDATA[業界全般・経営(物価統計) — 10月CPI、理美容サービスの上昇は1%台にとどまる / エステ(安全・法令対応) — 「エステティックと医療の境界」がテーマ、第19回エステティック学術会議をWeb配信 / 美容室・理美容(大手メーカー動向) — ミルボン「BEAUTY FEST 2026」に約3,000人、コンテストを世界11都市に拡大 / 美容室・理美容(人材育成) — アシスタント主役のヘアショー「JUNIOR TOKYO 9」、Ashが9回連続出演 / 美容室・理美容(業界団体) — 全理連、BBジャパンカップ2027の競技4種目を決定、三重・四日市で開催 / アイビューティー(仕入れ・コスト) — ネイルエキスポに合わせ、まつげ商材が最大30%オフのセール
@@ -1483,23 +1501,6 @@ PR TIMES/株式会社ALBUM(美容室「ALBUM」直営の「ALBUM ONLINE STORE」
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-25.mp3</guid>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>290</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月24日</title>
-      <description><![CDATA[業界全般・経営(市場調査) — 矢野経済研究所、2025年度の理美容サロン市場は1パーセント減の2兆1030億円 / 業界全般・経営(大手企業決算) — キュービーネットホールディングス、通期は増収も営業利益11.4パーセント減 / 業界全般・経営(社会保障・支援策) — アピアランスケア支援、実施自治体が8割に拡大 ウィッグ助成も高額化 / ネイル・アイ・エステ(複合業態) — ネイル・アイ・エステを1店舗で提供する「Être Produce by Lire」、東京・芝に開業 / ヘッドスパ・リラクゼーション(家庭用美容機器の動向) — アートネイチャー、EMSヘッドスパ美容器をリニューアルしショップチャンネルに投入 / 美容室・理美容(新商品・店販戦略) — ホーユー、サロン専売「SOMARCA Lab.」から業務用カラーシャンプーを発売
-
-出典:
-理美容ニュース(矢野経済研究所、2025年度の理美容サロン市場は1％減 2026年度も横ばい予測): https://ribiyo-news.jp/?p=51221
-Beautopia(キュービーネットHD通期 売上高が6.3％増の271億円、営業利益は11.4％減の14億円): https://www.beautopia.jp/216358
-理美容ニュース(アピアランスケア支援自治体が8割に ウィッグ助成も拡充): https://ribiyo-news.jp/?p=51259
-PR TIMES/株式会社DREAM PONY(ネイル・アイ・エステが1店舗で叶う「Être Produce by Lire」東京・港区芝にオープン): https://prtimes.jp/main/html/rd/p/000000012.000171329.html
-MANTANWEB/PR TIMES(アートネイチャー「ラボモ EMSヘッドスパN」8月23日ショップチャンネルに初登場): https://mantan-web.jp/prtimes/article/20260822prt00m200000093a/photopage/001.html
-理美容ニュース(ホーユー、「SOMARCA Lab.」から業務用カラーシャンプー2色を発売): https://ribiyo-news.jp/?p=51267]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-24.mp3" length="1440864" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-24.mp3</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>240</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
