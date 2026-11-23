@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:08:41 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,24 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月24日</title>
+      <description><![CDATA[ネイル(業界イベント) — 東京ネイルエキスポ2026が閉幕、2日間で約2万人が来場 / 美容室・理美容(情報発信) — 全理連、理容業の魅力を伝えるショート動画コンテスト、最優秀賞は賞金10万円 / 業界全般・経営(集客DX) — リザービアConnectに「空き枠投稿」、空き時間を選ぶだけでInstagram告知画像を作成 / 美容室・理美容(新たな収益源) — 理美容師の「おすすめ」を収益に、マイクロバブル・ジャパンが2027年2月から実証実験 / 業界全般・経営(口コミ集客) — 小樽で「口コミが少ないお店」3店を募集、2か月の公開実験で効果を検証 / エステ(人材育成・採用) — エスグラが専門学校で特別授業、世界一のエステティシャンによる勉強会も開催
+
+出典:
+理美容ニュース「東京ネイルエキスポ2026、ネイルの最新トレンドが集結」: https://ribiyo-news.jp/?p=52250
+理美容ニュース「全理連、理容業の魅力を伝えるショート動画コンテストを実施」: https://ribiyo-news.jp/?p=52248
+PR TIMES(リザービア)「リザービアConnect、空いている予約枠を選ぶだけでInstagramの告知画像をつくる「空き枠投稿」を追加」: https://prtimes.jp/main/html/rd/p/000000028.000035976.html
+理美容ニュース「理美容師の「おすすめ」が顧客行動に与える影響を検証 マイクロバブル・ジャパンが実証実験の参加企業を募集」: https://ribiyo-news.jp/?p=52179
+PR TIMES(トリノメーション)「小樽で「口コミが少ないお店」を3店だけ募集」: https://prtimes.jp/main/html/rd/p/000000005.000194807.html
+PR TIMES(エステティックグランプリ)「エステティックグランプリ関西支部が大阪ビューティアート専門学校で特別授業を実施」: https://prtimes.jp/main/html/rd/p/000000034.000045389.html
+PR TIMES(エステティックグランプリ)「エスグラ関東甲信越支部がリアル勉強会を開催」: https://prtimes.jp/main/html/rd/p/000000035.000045389.html]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-24.mp3" length="1870848" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-24.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>311</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月23日</title>
       <description><![CDATA[業界全般・経営(料金統計) — 10月の小売物価統計、ヘアカラー代は都市間で倍以上の差、エステはばらつき最大 / 業界全般・経営(人材・賃金) — 東京の美容求人、正社員は最低賃金より月2万〜3.5万円高い水準、美プロ調べ / 美容室・理美容(メンズ・提案力) — 男性の64.2%が「理容師・美容師に聞いてみたいこと」あり、最多は薄毛の進行 / 美容室・理美容(メーカー・人材育成) — ウエラ「イルミナカラーサミット」に経営者約350人、成功サロンが育成や提案の実践を共有 / ヘッドスパ・リラクゼーション(人材育成) — 大阪「つぼみや」、小規模サロン向け定額制の技術研修コミュニティ「リラク研究会」 / エステ(海外展開) — 群馬のエステ・美容室運営PLAISIR、日本の美容5ブランドでベトナム企業と独占販売代理店契約
@@ -1485,22 +1503,6 @@ WWDJAPAN/Yahoo!ニュース(アイスタイル26年6月期、営業利益初の4
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-26.mp3</guid>
       <pubDate>Wed, 26 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>289</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月25日</title>
-      <description><![CDATA[業界全般(経営支援サービス) — SaNS、フリーランス施術者向けキャンセル対策「リザーブチェッカー」提供開始 / 美容室・理美容(海外展開) — 日華化学「デミ コスメティクス」、マレーシアで展開強化 / ネイル — 福岡「PARNE de beaute」、デザイン持ち込み不要の新メニュー「Select nail」9月1日開始 / アイビューティー(市場動向) — 「眉毛サロン」急拡大、2025年市場は前年比17.4パーセント増の1384億円 / 業界全般(店販・EC戦略) — 人気美容室「ALBUM」、サロン専売品200ブランドを扱う公式ECアプリをリリース
-
-出典:
-理美容ニュース(「リザーブチェッカー」フリーランス施術者向けキャンセル対策サービス): https://ribiyo-news.jp/?p=51311
-Beautopia(デミコスメ、成長するマレーシアで展開強化 BG現地法人が独占販売): https://www.beautopia.jp/217052/
-PR TIMES/PARNE de beaute(【福岡・香椎】「デザイン持ち込み不要」で理想の上品手元へ。『PARNE de beaute』が忙しい女性へ贈る新スタイル「Select nail」を9月1日スタート！): https://prtimes.jp/main/html/rd/p/000000003.000183783.html
-ビジネス+IT(「眉毛サロン」なぜ急増？アデランスも参入、男性客3割・リピート率7割…新市場の裏側): https://www.sbbit.jp/article/cont1/186219
-PR TIMES/株式会社ALBUM(美容室「ALBUM」直営の「ALBUM ONLINE STORE」が公式アプリをリリース。サロン専売品を、もっと身近に。): https://prtimes.jp/main/html/rd/p/000000019.000092167.html]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-25.mp3" length="1745856" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-25.mp3</guid>
-      <pubDate>Tue, 25 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>290</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
