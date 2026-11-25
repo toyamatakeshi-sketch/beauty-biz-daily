@@ -5,7 +5,7 @@
     <link>https://toyamatakeshi-sketch.github.io/beauty-biz-daily/</link>
     <description><![CDATA[美容室・ネイルサロン・ヘッドスパ・アイサロン・エステなど、美容サロン経営に役立つ最新ニュースを毎朝お届けする番組です。]]></description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:07:10 +0000</lastBuildDate>
     <atom:link href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>ビューティービジネス・デイリー</itunes:author>
     <itunes:owner>
@@ -15,6 +15,23 @@
     <itunes:image href="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/cover.jpg"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>ビューティービジネス・デイリー 2026年11月26日</title>
+      <description><![CDATA[美容室・理美容(顧客定着) — 美容室の新規客、90日以内の再来店は35.8%、リザービア調べ / アイビューティー(業界団体・人材) — アイビューティー協会、加盟500店舗超え、優良サロン認定とIBA認定制度を始動 / 業界全般・経営(小規模事業者支援) — 理容業はMEO・SNS対策、美容業は事業ドメイン再構築、伴走型支援の好事例集 / ネイル(採用) — 長崎のネイルサロン、応募30名から3名採用、歩合の明示と休日の多さで訴求 / 美容室・理美容(AI・技術支援) — 美容師専門AI「is」がiPhoneで登場、いつもの薬剤でカラー配合を相談 / 業界全般・経営(業界交流) — 業種の垣根を越えて90人が参加、業界初の「美容大運動会」を開催
+
+出典:
+PR TIMES(リザービア)「美容室の新規客、90日以内に再来店したのは35.8%」: https://prtimes.jp/main/html/rd/p/000000030.000035976.html
+ビュートピア「加盟サロン500店舗突破のアイビューティー協会、認定制度スタート」: https://www.beautopia.jp/222878/
+理美容ニュース「理容業はMEO・SNS対策、美容業は事業ドメイン再構築 伴走型支援の好事例」: https://ribiyo-news.jp/?p=52275
+ホットペッパービューティーアカデミー「長崎のネイルサロンで応募30名・採用3名!人気の理由とは?」: https://hba.beauty.hotpepper.jp/check/83464/
+PR TIMES(SAIBON)「美容師専門AI「is(イズ)」をリリース」: https://prtimes.jp/main/html/rd/p/000000001.000195207.html
+ビュートピア「百人が激走! 業界初の美容大運動会、ともに汗を流して交流深める」: https://www.beautopia.jp/222830/]]></description>
+      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-26.mp3" length="2263104" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-11-26.mp3</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0900</pubDate>
+      <itunes:duration>377</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビューティービジネス・デイリー 2026年11月25日</title>
       <description><![CDATA[業界全般・経営(免税制度) — 11月からの新免税制度に対応、サロン専用POS「SalonAnswer」がリファンド方式の免税システムと連携 / 業界全般・経営(IT・業務効率化) — ホットペッパーのURLでホームページ見本を無料作成、小規模サロン向け一体型サービス「lulue」 / 業界全般・経営(集客支援) — 店舗集客支援「ヒロガル」が半年で200店舗突破、美容室の月商が1年で倍増した事例も / ヘッドスパ・リラクゼーション(季節メニュー) — uka、冬季限定「あったまろウカ」、温めるヘッドスパなど4分野で展開 / ネイル(開業・専門特化) — 京田辺市に自爪育成サロン「Nailsalon Karna」、40歳以上の女性に的を絞る / エステ(人材育成) — 三幸学園の学生がエステティックコンテスト全3部門で入賞、金賞4名 / 美容室・理美容(コンテスト) — 日本ヘアデザイン協会の70周年フォトコン、堀川宏樹さんが特別賞と優勝のダブル受賞
@@ -1487,23 +1504,6 @@ PR TIMES/株式会社Fast Beauty(業界NO.1の店舗数ヘアカラー専門店f
       <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-28.mp3</guid>
       <pubDate>Fri, 28 Aug 2026 06:00:00 +0900</pubDate>
       <itunes:duration>291</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ビューティービジネス・デイリー 2026年8月27日</title>
-      <description><![CDATA[業界全般(経営・人件費/法規制) — 2026年度最低賃金、全国平均1,176円(+55円)に 10月から順次発効 / 業界全般(統計・物価) — 理髪料、5カ月連続で上昇 2026年7月消費者物価指数 / 業界全般(経営ノウハウ・開業) — サロン開業の「安い見積書」に潜む落とし穴、後から追加費用も / 業界全般(経営DX・業務効率化) — 個人サロン向け電子カルテ「CastFile」、登録35万人・カルテ70万枚に / 業界全般(集客DX) — LeanBiz、インスタとGoogleビジネスプロフィールを自動連携する「iG-Link+ReviRise」提供開始 / 美容室(店販・新商品) — MTG、サロン専売品「ReFa」から新商品6アイテムを8月26日発売
-
-出典:
-2026年度 都道府県別最低賃金一覧(taxlabor.com、2026年8月25日更新): https://taxlabor.com/minimum-wage-japan/
-理美容ニュース(理髪料、5カ月連続で上昇 <2026年7月CPI>): https://ribiyo-news.jp/?p=51291
-理美容ニュース(見かけ上「安い」見積書のカラクリ): https://ribiyo-news.jp/?p=51285
-理美容ニュース(CastFile 個人サロン向け電子カルテの実績): https://prtimes.jp/main/html/rd/p/000000007.000174821.html
-理美容ニュース(LeanBiz、店舗集客を支援する「iG-Link＋ReviRise」を提供開始): https://ribiyo-news.jp/?p=51297
-理美容ニュース(MTG「ReFa」から新商品6アイテムを発売): https://ribiyo-news.jp/?p=51334]]></description>
-      <enclosure url="https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-27.mp3" length="1752336" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://toyamatakeshi-sketch.github.io/beauty-biz-daily/audio/2026-08-27.mp3</guid>
-      <pubDate>Thu, 27 Aug 2026 06:00:00 +0900</pubDate>
-      <itunes:duration>292</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
